@@ -1,5 +1,5 @@
 const cipher = {
-   // ...
+  
   encode: function(claveParaCifrar,textoParaCifrar){
     if(claveParaCifrar!=0 && textoParaCifrar!= " " && claveParaCifrar!='' && textoParaCifrar!=""){
       let textoParaCifrarMayuscula = textoParaCifrar.toUpperCase();
