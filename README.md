@@ -1,5 +1,5 @@
 <h1 align="center"> CipherText </h1>
-<img src="src/imagenes/anonymous2.png"> 
+<img src="src/imagenes/anonymous.png"> 
 
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
