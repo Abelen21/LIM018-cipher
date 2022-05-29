@@ -5,31 +5,36 @@
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
 
-##Índice
+## Índice
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+* [Descripción del proyecto](#descripción-del-proyecto)
 
-*[Insignias](#insignias)
+* [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-*[Índice](#índice)
+* [Acceso al proyecto](#acceso-proyecto)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+* [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Estado del proyecto](#Estado-del-proyecto)
+* [Personas Contribuyentes](#personas-contribuyentes)
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
-*[Acceso al proyecto](#acceso-proyecto)
-
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
-
-*[Personas Contribuyentes](#personas-contribuyentes)
-
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+* [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
 * [Licencia](#licencia)
 
-*[Conclusión](#conclusión)
+* [Conclusión](#conclusión)
+
+## Descripción del proyecto
+
+CipherText es un aplicación para cifrado de mensajería. La aplicación permitirá comunicarse de manera segura entre ususarios que conozcan la clave.
+
+## Características de la aplicación y demostración
+
+## :hammer:Funcionalidades del proyecto
+
+- `Funcionalidad 1`: Convertir un mensaje a su versión cifrada
+- `Funcionalidad 2`: Convertir un mensaje a su versión descifrada
+
+[](gift%5CCifrado%20Cesar%20-%2028%20May%202022.mp4)
 
 
 
