@@ -12,7 +12,7 @@
 
 * [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-* [Acceso al proyecto](#acceso-proyecto)
+* [Acceso al proyecto](#acceso-al-proyecto)
 
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
 
@@ -37,7 +37,7 @@ CipherText es un aplicación para cifrado de mensajería. La aplicación permiti
 <img src='src/gift/CifradoCesar.gif'>
 </p>
 
-## Acceso proyecto
+## Acceso al proyecto
 
 ## Tecnologías utilizadas
 
