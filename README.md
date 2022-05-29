@@ -15,13 +15,9 @@
 
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-* [Personas Contribuyentes](#personas-contribuyentes)
-
 * [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-* [Licencia](#licencia)
 
-* [Conclusión](#conclusión)
 
 ## Descripción del proyecto
 
@@ -34,13 +30,20 @@ CipherText es un aplicación para cifrado de mensajería. La aplicación permiti
 - `Funcionalidad 1`: Convertir un mensaje a su versión cifrada
 - `Funcionalidad 2`: Convertir un mensaje a su versión descifrada
 
-<p align='center'>
-<img src='https://user-images.githubusercontent.com/56883042/170859644-053593ce-6353-475c-84ef-37e790808614.gif'>
-</p>
+### Aplicación
 
 <p align='center'>
 <img src='src/gift/CifradoCesar.gif'>
 </p>
+
+## Acceso al proyecto
+
+## Tecnologías utilizadas
+
+## Personas-Desarrolladores del Proyecto
+
+| [<img src="https://user-images.githubusercontent.com/56883042/170875836-6d007ee7-7833-4c7f-b671-82d09ec6abcc.jpg" width=115><br><sub>Belén Arroyo Ramírez</sub>](https://github.com/Abelen21) |  
+| :---: |
 
 
 
