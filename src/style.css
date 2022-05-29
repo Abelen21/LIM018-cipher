@@ -125,9 +125,9 @@ h1{
     color: #F41A4F;
 }
 
-/*.resultado1{
+.resultado1{
     display: none;
-}*/
+}
 
 img{
     position: absolute;
@@ -167,9 +167,9 @@ img{
     text-align: center;
 }
 
-/*.resultado2{
+/* .resultado2{
     display: none;
-}*/
+}   */
 
 #resultado{
     position: absolute;
