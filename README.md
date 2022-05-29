@@ -34,11 +34,19 @@ CipherText es un aplicación para cifrado de mensajería. La aplicación permiti
 - `Funcionalidad 1`: Convertir un mensaje a su versión cifrada
 - `Funcionalidad 2`: Convertir un mensaje a su versión descifrada
 
-<video width="320" height="240" autoplay>
-  <source src="https://github.com/Abelen21/LIM018-cipher/blob/main/src/gift/CifradoCesar.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
+<p align="center">
+<img src="https://github.com/Abelen21/LIM018-cipher/blob/main/src/gift/CifradoCesar.mp4">
+</p>
+
+![](https://github.com/Abelen21/LIM018-cipher/blob/main/src/gift/CifradoCesar.mp4)
 
 
+
+
+
+[](src%5Cgift%5CCifradoCesar.mp4)
+
+[](src%5Cgift%5CCifradoCesar.mp4)
 
 
