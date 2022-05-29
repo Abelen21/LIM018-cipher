@@ -37,11 +37,11 @@ CipherText es un aplicación para cifrado de mensajería. La aplicación permiti
 <img src='src/gift/CifradoCesar.gif'>
 </p>
 
-## Acceso al proyecto
+## Acceso proyecto
 
 ## Tecnologías utilizadas
 
-## Personas-Desarrolladores del Proyecto
+## Personas-Desarrolladores
 
 | [<img src="https://user-images.githubusercontent.com/56883042/170875836-6d007ee7-7833-4c7f-b671-82d09ec6abcc.jpg" width=115><br><sub>Belén Arroyo Ramírez</sub>](https://github.com/Abelen21) |  
 | :---: |
