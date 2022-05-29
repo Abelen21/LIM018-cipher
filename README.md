@@ -1,5 +1,5 @@
 <h1 align="center"> CipherText </h1>
-<img src="src/imagenes/anonymous.png"> 
+<img src="src/imagenes/anonymous2.png"> 
 
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
@@ -35,7 +35,7 @@ CipherText es un aplicación para cifrado de mensajería. La aplicación permiti
 - `Funcionalidad 2`: Convertir un mensaje a su versión descifrada
 
 <video width="320" height="240" autoplay>
-  <source src="src/gift/CifradoCesar.mp4" type="video/mp4">
+  <source src="https://github.com/Abelen21/LIM018-cipher/blob/main/src/gift/CifradoCesar.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
