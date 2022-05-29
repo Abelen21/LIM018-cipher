@@ -1,5 +1,5 @@
 <h1 align="center"> CipherText </h1>
-<img src="src/imagenes/anonymous2.png"> 
+<img src=https://user-images.githubusercontent.com/56883042/170859629-d2577980-f826-4eb6-a1fd-2587bfb2bee6.png)> 
 
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
@@ -34,12 +34,11 @@ CipherText es un aplicación para cifrado de mensajería. La aplicación permiti
 - `Funcionalidad 1`: Convertir un mensaje a su versión cifrada
 - `Funcionalidad 2`: Convertir un mensaje a su versión descifrada
 
+![CifradoCesar](https://user-images.githubusercontent.com/56883042/170859644-053593ce-6353-475c-84ef-37e790808614.gif)
+
+https://user-images.githubusercontent.com/56883042/170859738-6aa4564a-2e54-41d5-adb8-9a39fd51484c.mp4
 
 
-
-[](src%5Cgift%5CCifradoCesar.mp4)
-
-![](src%5Cimagenes%5Canonymous2.png)
 
 
 
