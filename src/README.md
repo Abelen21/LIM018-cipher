@@ -1,5 +1,6 @@
 <h1 align="center"> CipherText </h1>
-<img src="imagenes/anonymous2.png"> 
+<p align='center'>
+<img src='https://user-images.githubusercontent.com/56883042/170859629-d2577980-f826-4eb6-a1fd-2587bfb2bee6.png' width=115></p> 
 
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
@@ -11,21 +12,17 @@
 
 * [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-* [Acceso al proyecto](#acceso-proyecto)
+* [Acceso al proyecto](#acceso-al-proyecto)
 
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-* [Personas Contribuyentes](#personas-contribuyentes)
-
 * [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-* [Licencia](#licencia)
 
-* [Conclusión](#conclusión)
 
 ## Descripción del proyecto
 
-CipherText es un aplicación para cifrado de mensajería. La aplicación permitirá comunicarse de manera segura entre ususarios que conozcan la clave.
+CipherText es un aplicación para cifrado de mensajería. La aplicación permitirá comunicarse de manera segura entre usuarios que conozcan la clave.
 
 ## Características de la aplicación y demostración
 
@@ -34,7 +31,26 @@ CipherText es un aplicación para cifrado de mensajería. La aplicación permiti
 - `Funcionalidad 1`: Convertir un mensaje a su versión cifrada
 - `Funcionalidad 2`: Convertir un mensaje a su versión descifrada
 
-<video src="CifradoCesar.mp4"> Vídeo no es soportado... </video>
+### Aplicación
+
+<p align='center'>
+<img src='src/gift/CifradoCesar.gif'>
+</p>
+
+## Acceso al proyecto
+
+## Tecnologías utilizadas
+
+## Personas-Desarrolladores
+
+| [<img src="https://user-images.githubusercontent.com/56883042/170875836-6d007ee7-7833-4c7f-b671-82d09ec6abcc.jpg" width=115><br><sub>Belén Arroyo Ramírez</sub>](https://github.com/Abelen21) |  
+| :---: |
+
+
+
+
+
+
 
 
 
