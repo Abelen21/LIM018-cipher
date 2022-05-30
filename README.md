@@ -39,6 +39,10 @@ CipherText es un aplicación para cifrado de mensajería. La aplicación permiti
 
 ## Acceso al proyecto
 
+### :checkered_flag:Abre y ejecuta el proyecto
+
+Acceder online mediante el siguiente link : https://abelen21.github.io/LIM018-cipher/
+
 ## Tecnologías utilizadas
 
 - HTML
