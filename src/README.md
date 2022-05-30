@@ -31,7 +31,7 @@ CipherText es un aplicación para cifrado de mensajería. La aplicación permiti
 - `Funcionalidad 1`: Convertir un mensaje a su versión cifrada
 - `Funcionalidad 2`: Convertir un mensaje a su versión descifrada
 
-### Aplicación
+### :star:Aplicación
 
 <p align='center'>
 <img src='imagenes/CifradoCesar.gif'>
@@ -40,6 +40,10 @@ CipherText es un aplicación para cifrado de mensajería. La aplicación permiti
 ## Acceso al proyecto
 
 ## Tecnologías utilizadas
+
+- HTML
+- CSS
+- JavaScript
 
 ## Personas-Desarrolladores
 
