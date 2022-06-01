@@ -126,7 +126,7 @@ h1{
 }
 
 .resultado1{
-    display: none;
+    visibility: visible;
 }
 
 img{
@@ -167,9 +167,9 @@ img{
     text-align: center;
 }
 
-/* .resultado2{
-    display: none;
-}   */
+.resultado2{
+    visibility: hidden;
+}
 
 #resultado{
     position: absolute;
