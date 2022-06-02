@@ -25,12 +25,10 @@ btndescifrar.addEventListener('click',()=>{
 } )
 
 btncopiar.addEventListener('click',()=>{
-    console.log('hola')
+    const textoCopiado = resultado;
+    textoCopiado.select();
+    document.execCommand("copy");
+    // console.log('copiado');
 })
-
-
-
-
-
 
 // console.log(cipher);
