@@ -6,6 +6,7 @@ const resultado = document.querySelector("#resultado");
 const btncifrar = document.querySelector('#cifrar');
 const btndescifrar = document.querySelector('#descifrar');
 const resultado2 = document.querySelector('.resultado2');
+const btncopiar = document.querySelector('#copiar')
 
 
 btncifrar.addEventListener('click',()=>{ 
@@ -23,9 +24,11 @@ btndescifrar.addEventListener('click',()=>{
     inputClave.value = '';
 } )
 
-
-
-
-
+btncopiar.addEventListener('click',()=>{
+    const textoCopiado = resultado;
+    textoCopiado.select();
+    document.execCommand("copy");
+    // console.log('copiado');
+})
 
 // console.log(cipher);
