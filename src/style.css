@@ -186,3 +186,26 @@ img{
     background: #000000;
     color: #FFFFFF; 
 }
+
+#copiar{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 211px;
+    height: 70px;
+    left: 1092px;
+    top: 747px;
+    
+    background: #F5F5F5;
+    border: 1px solid #F41A4F;
+    font-family: 'Courier Prime';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    align-items: center;
+    text-align: center;
+
+    color: #F41A4F;
+}
+
