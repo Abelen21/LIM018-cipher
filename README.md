@@ -34,7 +34,7 @@ CipherText es un aplicación para cifrado de mensajería. La aplicación permiti
 ### :star:Aplicación
 
 <p align='center'>
-<img src='src/imagenes/CifradoCesar.gif'>
+<img src='src/imagenes/CifradoCesar07Junio2022.gif'>
 </p>
 
 ## Acceso al proyecto
