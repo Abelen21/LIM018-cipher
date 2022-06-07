@@ -42,6 +42,7 @@ Los usuarios de la aplicación son personas que requieran comunicarse de manera 
 
 - `Funcionalidad 1`: Convertir un mensaje a su versión cifrada
 - `Funcionalidad 2`: Convertir un mensaje a su versión descifrada
+- `Funcionalidad 3`: Copiar mensaje cifrado/descifrado al portapapeles
 
 ### :star:Aplicación
 
