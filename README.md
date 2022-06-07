@@ -10,6 +10,8 @@
 
 * [Descripción del proyecto](#descripción-del-proyecto)
 
+* [Investigación UX](#investigación-UX)
+
 * [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
 * [Acceso al proyecto](#acceso-al-proyecto)
@@ -22,7 +24,17 @@
 
 ## Descripción del proyecto
 
-CipherText es un aplicación para cifrado de mensajería. La aplicación permitirá comunicarse de manera segura entre usuarios que conozcan la clave.
+CipherText es un aplicación para cifrado de mensajería. 
+
+## Investigación UX
+
+Los usuarios de la aplicación son personas que requieran comunicarse de manera segura utilizando una clave en común.
+
+### :black_nib: Prototipo
+
+<p align="center">
+<img src='src/imagenes/prototipo_figma.PNG'>
+</p>
 
 ## Características de la aplicación y demostración
 
